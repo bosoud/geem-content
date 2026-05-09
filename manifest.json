@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "packID": "ramadan",
+      "version": 1,
+      "nameKey": "pack.ramadan.name",
+      "subtitleKey": "pack.ramadan.subtitle",
+      "icon": "moon.stars.fill",
+      "gradientStartHex": "#7C3AED",
+      "gradientEndHex": "#06B6D4",
+      "bundled": true,
+      "published": true,
+      "downloadURL": null,
+      "sha256": null,
+      "sizeBytes": null,
+      "questionCount": 0
+    },
+    {
+      "packID": "eid",
+      "version": 1,
+      "nameKey": "pack.eid.name",
+      "subtitleKey": "pack.eid.subtitle",
+      "icon": "sparkles",
+      "gradientStartHex": "#FFB84D",
+      "gradientEndHex": "#FF6B6B",
+      "bundled": false,
+      "published": false,
+      "downloadURL": "https://github.com/bosoud/geem-content/releases/download/eid-v1/pack-eid.sqlite.gz",
+      "sha256": null,
+      "sizeBytes": null,
+      "questionCount": 0
+    },
+    {
+      "packID": "hajj",
+      "version": 1,
+      "nameKey": "pack.hajj.name",
+      "subtitleKey": "pack.hajj.subtitle",
+      "icon": "building.columns.fill",
+      "gradientStartHex": "#00D4AA",
+      "gradientEndHex": "#4DA6FF",
+      "bundled": false,
+      "published": false,
+      "downloadURL": "https://github.com/bosoud/geem-content/releases/download/hajj-v1/pack-hajj.sqlite.gz",
+      "sha256": null,
+      "sizeBytes": null,
+      "questionCount": 0
+    }
+  ]
+}
