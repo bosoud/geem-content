@@ -1,4 +1,21 @@
 {
-  "packs" : [],
-  "schemaVersion" : 1
+  "packs": [
+    {
+      "bundled": false,
+      "description": "المناسك، عرفة، وتاريخ الحرمين",
+      "description_en": "Hajj rites, Arafat, and the history of the Two Holy Mosques",
+      "downloadURL": "https://github.com/bosoud/geem-content/releases/download/hajj-v1/pack-hajj.sqlite.gz",
+      "gradientEndHex": "#4DA6FF",
+      "gradientStartHex": "#00D4AA",
+      "icon": "building.columns.fill",
+      "name": "باقة الحج",
+      "name_en": "Hajj Pack",
+      "packID": "hajj",
+      "questionCount": 30,
+      "sha256": "32435f9c7a90ba313c86f167e0dc43aa83b2961896978650990ae723bff7f9a0",
+      "sizeBytes": 2894,
+      "version": 1
+    }
+  ],
+  "schemaVersion": 1
 }
