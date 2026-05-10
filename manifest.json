@@ -1,18 +1,4 @@
 {
-  "packs" : [
-    {
-      "bundled" : true,
-      "description" : "أسئلة الصيام، التراويح، والتراث الرمضاني",
-      "description_en" : "Questions about fasting, taraweeh, and Ramadan traditions",
-      "gradientEndHex" : "#06B6D4",
-      "gradientStartHex" : "#7C3AED",
-      "icon" : "moon.stars.fill",
-      "name" : "باقة رمضان",
-      "name_en" : "Ramadan Pack",
-      "packID" : "ramadan",
-      "questionCount" : 5,
-      "version" : 1
-    }
-  ],
+  "packs" : [],
   "schemaVersion" : 1
 }
