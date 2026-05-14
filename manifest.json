@@ -15,23 +15,6 @@
       "sha256": "8e58eb9ed9214c5a07dd3c8b72e915770e376afa4e989ac3dd47c6336f4b63fc",
       "sizeBytes": 3019,
       "version": 2
-    },
-    {
-      "bundled": false,
-      "description": "اختبار خط الأنابيب الكامل من النشر على GitHub إلى التثبيت على iOS",
-      "description_en": "Full pipeline: GitHub release → manifest → iOS install",
-      "downloadURL": "https://github.com/bosoud/geem-content/releases/download/runbook-public-20260514-v1/pack-runbook-public-20260514.sqlite.gz",
-      "gradientEndHex": "#A855F7",
-      "gradientStartHex": "#3B82F6",
-      "icon": "globe.americas.fill",
-      "name": "اختبار النشر العام",
-      "name_en": "Public OTA Probe",
-      "packID": "runbook-public-20260514",
-      "published": true,
-      "questionCount": 2,
-      "sha256": "0cb5fbc0395e39346fc52cf1799c4f0fa070dbffc2bdc9992021557c2df0b1b7",
-      "sizeBytes": 988,
-      "version": 1
     }
   ],
   "schemaVersion": 1
