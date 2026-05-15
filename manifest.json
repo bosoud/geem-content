@@ -26,6 +26,17 @@
       "published" : true,
       "sha256" : "30a8789564f08ec04f1f376201a40ee7810930fff34d964b7af6440e5d31cf50",
       "version" : 1
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/ramadan-v1\/pack-ramadan.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "ramadan",
+      "published" : true,
+      "sha256" : "0f9f200f43df6bccb8563f1af794a71931b9100f305a9a6bf49bebb4ca34b01a",
+      "version" : 1
     }
   ],
   "schemaVersion" : 1
