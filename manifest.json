@@ -37,6 +37,17 @@
       "published" : true,
       "sha256" : "0f9f200f43df6bccb8563f1af794a71931b9100f305a9a6bf49bebb4ca34b01a",
       "version" : 1
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/grade-12-arts-v1\/pack-grade-12-arts.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "grade-12-arts",
+      "published" : true,
+      "sha256" : "ea9281b48a212a03922241f3242ca2461f24579b17d29b90d0564d6fefcdc58a",
+      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1
