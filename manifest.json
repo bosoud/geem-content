@@ -2,22 +2,6 @@
   "packs" : [
     {
       "bundled" : false,
-      "description" : "المناسك، عرفة، وتاريخ الحرمين",
-      "description_en" : "Hajj rites, Arafat, and the history of the Two Holy Mosques",
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/hajj-v2\/pack-hajj.sqlite.gz",
-      "gradientEndHex" : "#4DA6FF",
-      "gradientStartHex" : "#00D4AA",
-      "icon" : "building.columns.fill",
-      "name" : "باقة الحج",
-      "name_en" : "Hajj Pack",
-      "packID" : "hajj",
-      "questionCount" : 31,
-      "sha256" : "8e58eb9ed9214c5a07dd3c8b72e915770e376afa4e989ac3dd47c6336f4b63fc",
-      "sizeBytes" : 3019,
-      "version" : 2
-    },
-    {
-      "bundled" : false,
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-grade-12-v1\/pack-kuwait-grade-12.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
@@ -59,6 +43,23 @@
       "published" : true,
       "sha256" : "7cf9021245ccc50407cafea726667af13ad94696f8a1fb35293f4422c404efa3",
       "version" : "1.0"
+    },
+    {
+      "bundled" : false,
+      "description" : "المناسك، عرفة، وتاريخ الحرمين",
+      "description_en" : "Hajj rites, Arafat, and the history of the Two Holy Mosques",
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/hajj-v2.1\/pack-hajj.sqlite.gz",
+      "gradientEndHex" : "#4DA6FF",
+      "gradientStartHex" : "#00D4AA",
+      "icon" : "building.columns.fill",
+      "name" : "باقة الحج",
+      "name_en" : "Hajj Pack",
+      "packID" : "hajj",
+      "published" : true,
+      "questionCount" : 31,
+      "sha256" : "618ded669668cda63652d30e0a16adfc9edd3490bc1fa45528843a26da575656",
+      "sizeBytes" : 3019,
+      "version" : "2.1"
     }
   ],
   "schemaVersion" : 1
