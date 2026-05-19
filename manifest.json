@@ -60,6 +60,17 @@
       "published" : true,
       "sha256" : "7e62c944597ee0b4f11a85b23af67e180fca739a16b025a56ec9fcb22aebb62d",
       "version" : "1.1"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/extra100-v1\/pack-extra100.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "extra100",
+      "published" : true,
+      "sha256" : "8806f1e9ad8aaf27370e0119f27167105fbad1e8ace3553c5ca318f65b16782b",
+      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1
