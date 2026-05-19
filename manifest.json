@@ -2,17 +2,6 @@
   "packs" : [
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-grade-12-v1\/pack-kuwait-grade-12.sqlite.gz",
-      "gradientEndHex" : "#00D4AA",
-      "gradientStartHex" : "#7B2FFF",
-      "icon" : "shippingbox.fill",
-      "packID" : "kuwait-grade-12",
-      "published" : true,
-      "sha256" : "30a8789564f08ec04f1f376201a40ee7810930fff34d964b7af6440e5d31cf50",
-      "version" : 1
-    },
-    {
-      "bundled" : false,
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/ramadan-v1\/pack-ramadan.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
@@ -60,6 +49,17 @@
       "sha256" : "618ded669668cda63652d30e0a16adfc9edd3490bc1fa45528843a26da575656",
       "sizeBytes" : 3019,
       "version" : "2.1"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-grade-12-v1.1\/pack-kuwait-grade-12.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "kuwait-grade-12",
+      "published" : true,
+      "sha256" : "7e62c944597ee0b4f11a85b23af67e180fca739a16b025a56ec9fcb22aebb62d",
+      "version" : "1.1"
     }
   ],
   "schemaVersion" : 1
