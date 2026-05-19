@@ -24,17 +24,6 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/grade-12-science-v1\/pack-grade-12-science.sqlite.gz",
-      "gradientEndHex" : "#00D4AA",
-      "gradientStartHex" : "#7B2FFF",
-      "icon" : "shippingbox.fill",
-      "packID" : "grade-12-science",
-      "published" : true,
-      "sha256" : "7cf9021245ccc50407cafea726667af13ad94696f8a1fb35293f4422c404efa3",
-      "version" : "1.0"
-    },
-    {
-      "bundled" : false,
       "description" : "المناسك، عرفة، وتاريخ الحرمين",
       "description_en" : "Hajj rites, Arafat, and the history of the Two Holy Mosques",
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/hajj-v2.1\/pack-hajj.sqlite.gz",
@@ -71,6 +60,17 @@
       "published" : true,
       "sha256" : "8806f1e9ad8aaf27370e0119f27167105fbad1e8ace3553c5ca318f65b16782b",
       "version" : "1.0"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/grade-12-science-v1.1\/pack-grade-12-science.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "grade-12-science",
+      "published" : true,
+      "sha256" : "4edd014b6f8e1652f4de45108f9dfa869be3f56047c6d779be56cd220888ccc0",
+      "version" : "1.1"
     }
   ],
   "schemaVersion" : 1
