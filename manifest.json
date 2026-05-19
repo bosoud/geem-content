@@ -52,17 +52,6 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/extra100-v1\/pack-extra100.sqlite.gz",
-      "gradientEndHex" : "#00D4AA",
-      "gradientStartHex" : "#7B2FFF",
-      "icon" : "shippingbox.fill",
-      "packID" : "extra100",
-      "published" : true,
-      "sha256" : "8806f1e9ad8aaf27370e0119f27167105fbad1e8ace3553c5ca318f65b16782b",
-      "version" : "1.0"
-    },
-    {
-      "bundled" : false,
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/grade-12-science-v1.1\/pack-grade-12-science.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
@@ -70,6 +59,17 @@
       "packID" : "grade-12-science",
       "published" : true,
       "sha256" : "4edd014b6f8e1652f4de45108f9dfa869be3f56047c6d779be56cd220888ccc0",
+      "version" : "1.1"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/extra100-v1.1\/pack-extra100.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "extra100",
+      "published" : true,
+      "sha256" : "2c476a1dac212a202d71519207a8c6bc0dc93c79480ca65e4b1e315cd4acd64a",
       "version" : "1.1"
     }
   ],
