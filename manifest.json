@@ -63,14 +63,15 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/extra100-v1.3\/pack-extra100.sqlite.gz",
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/extra100-v1.4\/pack-extra100.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
       "icon" : "shippingbox.fill",
       "packID" : "extra100",
       "published" : true,
-      "sha256" : "91af3149cb2410f0efa780e2a4a839503abbcf57c83010b5c229186acb82e0d4",
-      "version" : "1.3"
+      "sha256" : "28715daed02136e015141bfc5ed8ab55aa3193d3cc6b2f63352cff05c9261d7e",
+      "sizeBytes" : 34655,
+      "version" : "1.4"
     }
   ],
   "schemaVersion" : 1
