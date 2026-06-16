@@ -75,18 +75,6 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-v1\/pack-kuwait.sqlite.gz",
-      "gradientEndHex" : "#00D4AA",
-      "gradientStartHex" : "#7B2FFF",
-      "icon" : "shippingbox.fill",
-      "packID" : "kuwait",
-      "published" : true,
-      "sha256" : "4fca37d6c6767a5860721805d726f60e0b9dc6cf68af0c7426cd3ca872614d0d",
-      "sizeBytes" : 12369,
-      "version" : "1.0"
-    },
-    {
-      "bundled" : false,
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/saudi-arabia-v1\/pack-saudi-arabia.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
@@ -108,6 +96,18 @@
       "sha256" : "84be69de8309af70ce7bfdfb913a4913b23daee76c4bc23658729ae9397f4261",
       "sizeBytes" : 16431,
       "version" : "1.5"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-v1.1\/pack-kuwait.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "kuwait",
+      "published" : true,
+      "sha256" : "c72687bac1892f9382cba06ffba6de9476fce5cb35fae5a27c704e11cf04ed07",
+      "sizeBytes" : 12388,
+      "version" : "1.1"
     }
   ],
   "schemaVersion" : 1
