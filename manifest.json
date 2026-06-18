@@ -99,7 +99,7 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-v1.4\/pack-kuwait.sqlite.gz",
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-v1.5\/pack-kuwait.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
       "icon" : "shippingbox.fill",
@@ -107,7 +107,7 @@
       "published" : true,
       "sha256" : "806c82f773baae63c06df485f8a45165c5035f8eea3b764f18588986ff158aec",
       "sizeBytes" : 12451,
-      "version" : "1.4"
+      "version" : "1.5"
     }
   ],
   "schemaVersion" : 1
