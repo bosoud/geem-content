@@ -87,18 +87,6 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/world-cup-2026-v1.5\/pack-world-cup-2026.sqlite.gz",
-      "gradientEndHex" : "#00D4AA",
-      "gradientStartHex" : "#7B2FFF",
-      "icon" : "shippingbox.fill",
-      "packID" : "world-cup-2026",
-      "published" : true,
-      "sha256" : "84be69de8309af70ce7bfdfb913a4913b23daee76c4bc23658729ae9397f4261",
-      "sizeBytes" : 16431,
-      "version" : "1.5"
-    },
-    {
-      "bundled" : false,
       "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/kuwait-v1.5\/pack-kuwait.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
@@ -108,6 +96,18 @@
       "sha256" : "806c82f773baae63c06df485f8a45165c5035f8eea3b764f18588986ff158aec",
       "sizeBytes" : 12451,
       "version" : "1.5"
+    },
+    {
+      "bundled" : false,
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/world-cup-2026-v1.6\/pack-world-cup-2026.sqlite.gz",
+      "gradientEndHex" : "#00D4AA",
+      "gradientStartHex" : "#7B2FFF",
+      "icon" : "shippingbox.fill",
+      "packID" : "world-cup-2026",
+      "published" : true,
+      "sha256" : "9bc52ff69c9bc97fa6b2e5e54c86cd8f4958fe64803559ef2fdb93499dab6c40",
+      "sizeBytes" : 19068,
+      "version" : "1.6"
     }
   ],
   "schemaVersion" : 1
