@@ -99,15 +99,15 @@
     },
     {
       "bundled" : false,
-      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/world-cup-2026-v1.7\/pack-world-cup-2026.sqlite.gz",
+      "downloadURL" : "https:\/\/github.com\/bosoud\/geem-content\/releases\/download\/world-cup-2026-v1.8\/pack-world-cup-2026.sqlite.gz",
       "gradientEndHex" : "#00D4AA",
       "gradientStartHex" : "#7B2FFF",
       "icon" : "shippingbox.fill",
       "packID" : "world-cup-2026",
       "published" : true,
-      "sha256" : "0c640cf6c4ea03052915cfe21ef9f48ef645f108c59622affce65f4a052344dd",
-      "sizeBytes" : 20144,
-      "version" : "1.7"
+      "sha256" : "91a929297c06ee337de3fea3deee2399c706e5115852163ae8c64a8c1765e0d4",
+      "sizeBytes" : 21310,
+      "version" : "1.8"
     }
   ],
   "schemaVersion" : 1
